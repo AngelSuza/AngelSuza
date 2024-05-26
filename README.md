@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Vous voulez en savoir plus sur moi ?
+Nope.
+Peut-être plus tard, qui sait ?
 <!--
 **AngelSuza/AngelSuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
